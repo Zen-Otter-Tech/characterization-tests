@@ -1,10 +1,10 @@
 # Attributions
 
-## Working Effectively with Legacy Code
+## Working Effectively with Legacy Code - Michael Feathers
 
 https://www.oreilly.com/library/view/working-effectively-with/0131177052/
 
-## Key points of working with Legacy Code
+## Key points of working with Legacy Code - Nicolas Carlo
 
 https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
 
@@ -20,7 +20,7 @@ https://github.com/approvals
 
 https://en.m.wikipedia.org/wiki/Characterization_test
 
-## The Pragmatic Programmer: From Journeyman to Master, by David Thomas, Andrew Hunt
+## The Pragmatic Programmer: From Journeyman to Master - David Thomas, Andrew Hunt
 
 https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 
@@ -28,8 +28,6 @@ https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 
 https://qualitycoding.org/books/
 
-## Clean Code: Explanation, Benefits, and Examples
-
-By Ekaterina Novoseltseva
+## Clean Code: Explanation, Benefits, and Examples - Ekaterina Novoseltseva
 
 https://dzone.com/articles/clean-code-explanation-benefits-amp-examples#:~:text=When%20we%20talk%20about%20clean,understand%20and%20easy%20to%20change.&text=This%20means%20the%20code%20is,the%20code%20or%20somebody%20else.
