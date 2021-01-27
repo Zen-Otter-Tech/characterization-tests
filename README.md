@@ -6,3 +6,4 @@ Accompanying examples and documentation for presentations on Characterization Te
 
 - [Attributions](attributions.md)
 - [Glossary of terms](glossary-of-terms.md)
+- [Presentation slides](characterization_testing.pdf)
