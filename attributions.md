@@ -24,7 +24,7 @@ https://en.m.wikipedia.org/wiki/Characterization_test
 
 https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 
-## Books on Quality Code / Quality Engineering (opinionated and off-topic + C#-centric)
+## Books on Quality Code / Quality Engineering (opinionated and somewhat off-topic, but useful)
 
 https://qualitycoding.org/books/
 

@@ -2,7 +2,7 @@
 
 ## Refactoring
 
-`“improving the internal structure of an existing program's source code, while preserving its external behaviour”` - ?
+`“improving the internal structure of an existing program's source code, while preserving its external behaviour”` - Agile Alliance
 
 ## Legacy Code
 
@@ -10,11 +10,11 @@
 
 ## Clean code
 
-`“When we talk about clean code, we talk about a reader-focused development style that produces software that's easy to write, read, and maintain. Clean code is code that is easy to understand and easy to change. ... This means the code is easy to read, whether that reader is the original author of the code or somebody else.”` ? Dzone.com
+`“When we talk about clean code, we talk about a reader-focused development style that produces software that's easy to write, read, and maintain. Clean code is code that is easy to understand and easy to change. ... This means the code is easy to read, whether that reader is the original author of the code or somebody else.”` Ekaterina Novoseltseva
 
 ## Test
 
-`“an investigation conducted to provide stakeholders with information about the quality of the software product or service under test.”` - ?
+`“an investigation conducted to provide stakeholders with information about the quality of the software product or service under test.”` - Wikipedia: "Software testing"
 
 Testers verify that code behaves as the business expects, matching documented requirements, without undesirable side effects.
 
