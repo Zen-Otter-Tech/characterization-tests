@@ -39,3 +39,11 @@ Almost universally accepted as the pattern to write good tests:
 - **Integration** – tests to verify integration points between several units
 - **System** - tests to verify the functions and features of a system
 - **End to End** – test of flow end to end through an entire business flow of the interconnected systems
+
+## Boilerplate code / boilerplate
+
+`"...sections of code that are repeated in multiple places with little to no variation. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality."` - Wikipedia: "Boilerplate code"
+
+## Diff
+
+Short for difference - the difference between the changes in 2 versions of the same file.
